@@ -1,0 +1,11 @@
+.bg-masthead{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.navbar navbar-static-stop navbar-expand-lg navbar-dark bg-primary sticky-top{
+    background:transparent;
+}
+html {overflow-y:hidden;}
+body {overflow-y:auto;}
+#page-background {position:absolute; z-index:-1;}
+#content {position:static;padding:10px;}
