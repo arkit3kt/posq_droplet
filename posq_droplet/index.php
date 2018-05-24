@@ -28,15 +28,15 @@
   </nav>
 
 
-<div id="particles-js">
 
 <!-- text-md-left: left aligned text on viewports sized MD (medium) or wider. -->
 <!-- Use .order- classes for controlling the visual order of your content. These classes are responsive, so you can set the order by breakpoint (e.g., .order-1.order-md-2). Includes support for 1 through 12 across all five grid tiers. -->
 
 
-
+<div id="particles-js">
 <main class="bg-masthead">
 <div class="container">
+
   <div class="row">
     <div class="col-6 mx-auto col-md-6 order-md-2">
       <img class='img-fluid mb-3 mb-md-0' src="https://posq.io/posq_logo.png" width="300" height="300">
