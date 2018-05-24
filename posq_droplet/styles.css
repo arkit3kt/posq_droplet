@@ -5,7 +5,13 @@
 .navbar navbar-static-stop navbar-expand-lg navbar-dark bg-primary sticky-top{
     background:transparent;
 }
-html {overflow-y:hidden;}
-body {overflow-y:auto;}
-#page-background {position:absolute; z-index:-1;}
-#content {position:static;padding:10px;}
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-image: url('images/hero-dark.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+
+
