@@ -2,3 +2,15 @@
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
+
+#particles-js{
+  
+  width: 100%;
+  height: 100%;
+  background-image: url('images/hero-dark.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.particles-js-canvas-el {
+margin-top: -600px;
+}
