@@ -2,16 +2,11 @@
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
-.navbar navbar-static-stop navbar-expand-lg navbar-dark bg-primary sticky-top{
-    background:transparent;
-}
+
 #particles-js{
   width: 100%;
   height: 100%;
   background-image: url('images/hero-dark.jpg');
   background-size: cover;
   background-repeat: no-repeat;
- 
 }
-
-
